@@ -1,0 +1,2 @@
+# Image-Segmentation-using-K-means-Clustering-Algorithm-and-Subtractive-Clustering-Algorithm
+Image segmentation classifies an image into regions using k-means clustering. First, partial stretching enhances image quality, and subtractive clustering determines initial centroids. K-means then segments the image, followed by a median filter to remove noise, resulting in clear and precise regions of interest.
